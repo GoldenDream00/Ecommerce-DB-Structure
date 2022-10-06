@@ -1,11 +1,11 @@
-# Projeto Conceitual de Banco de Dados
+# Database Conceptual Design
 
 ## Bootcamp DIO - Database Experience
 
-#### Detalhes do projeto
+#### Project Details
 
-- Principais tópicos: Modelagem, coleta de dados, análise do contexto, relacionamentos, modelo EER (Enhanced Entity Relationship)
+- Main topics: Modeling, data collection, context analysis, relationships, EER (Enhanced Entity Relationship) model.
 - Ferramenta: MySQL Workbench
-- Contexto: Criar e refinar um Projeto Conceitual de Banco de Dados para um contexto de e-Commerce. Fase que se caracteriza pelo levantamento de requisitos e representação de alto nível.
+- Context: Create and refine a Database Conceptual Design for an e-Commerce context. Phase characterized by requirements gathering and high-level representation.
 
 ![Model](/e-commerce%20desafio%20DIO.png)
